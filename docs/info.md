@@ -25,6 +25,6 @@ The project only needs to be initalized and that the user interacts with the inp
 
 ## External hardware
 
-Display de 7 segmentos de catodo comun, DIP switch de 4 entradas.
+Display de 7 segmentos de catodo comun, DIP switch de 4 entradas para x y z w.
 
 
